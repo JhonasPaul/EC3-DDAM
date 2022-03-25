@@ -1,0 +1,2 @@
+rootProject.name = "EC3"
+include ':app'
